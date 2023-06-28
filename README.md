@@ -4,11 +4,9 @@
 
 This app is the prework for Codepath's Intermediate IOS development course.
 
-### App Walk-though
+### App Walkthough
 
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif). LICEcap is a great tool for recording and you can simply upload the gif to GitHub and provide the path name in place of URL as shown below.
-
-<img src="https://imgur.com/a/zoc7ev5" width=200><br>
+<a src="https://imgur.com/a/zoc7ev5" width=200><br>
 
 `TODO://` In the Features section below, add an `x` between the `-[ ]` like this `- [x]` for any features you complete. (☝️ Remove this paragraph after after checking off user stories)
 
