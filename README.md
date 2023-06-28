@@ -6,7 +6,7 @@ This app is the prework for Codepath's Intermediate IOS development course.
 
 ### App Walkthough
 
-![](https://imgur.com/a/zoc7ev5)
+<img src="ios-prework.gif" width=200><br>
 
 ### Required Features
 
