@@ -6,7 +6,7 @@ This app is the prework for Codepath's Intermediate IOS development course.
 
 ### App Walkthough
 
-[](https://imgur.com/a/zoc7ev5.gif)
+![](https://imgur.com/a/zoc7ev5.gif)
 
 ### Required Features
 
@@ -21,4 +21,5 @@ This app is the prework for Codepath's Intermediate IOS development course.
 
 - [ ] 1. User can tap a button to change the color of the background view
 - [ ] 3. User can select on additional buttons that provide more info about the user. Example: more textfields, a different alert box, etc.
-- [x] 4. Any stylistic changes that are not default options: changed background color and text color
+- [x] 3. Any stylistic changes that are not default options
+- [x] 4. Changed background color and text color
