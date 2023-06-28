@@ -6,9 +6,7 @@ This app is the prework for Codepath's Intermediate IOS development course.
 
 ### App Walkthough
 
-<a src="https://imgur.com/a/zoc7ev5" width=200><br>
-
-`TODO://` In the Features section below, add an `x` between the `-[ ]` like this `- [x]` for any features you complete. (☝️ Remove this paragraph after after checking off user stories)
+[](https://imgur.com/a/zoc7ev5.gif)
 
 ### Required Features
 
